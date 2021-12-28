@@ -1,2 +1,2 @@
  fox, mother pig
-a pig, b pig
+a pig, b pig, c pig
